@@ -6,8 +6,13 @@ Welcome to The Hackers Library. This is a public repo where you can find stuff a
 DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY MISUSE OF ANYTHING IN THIS REPO. THIS IS FOR EDUCATIONAL PURPOSES ONLY.
 
 Table Of Contents:
+
 All About Malware
+
 Cool Hacking Tools (Linux)
+
 Cool Hacking Tools (Windows)
+
 Good Antiviruses
+
 Websites To Learn And Practice
