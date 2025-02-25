@@ -1,5 +1,5 @@
 # The-Hackers-Library
-Welcome to The Hackers Library. This is a public repo where you can find stuff all kinds of good stuff. Dive into Malware, Websites, Tips, Tools, And much more!
+Welcome to The Hackers Library. This is a public repo where you can find stuff all kinds of good stuff. Dive into Malware, Websites, Tips, Tools, And much more! Support my work by giving this repo a star!
 
 ![Screenshot 2025-02-24 183725](https://github.com/user-attachments/assets/b6bb086a-e507-4aeb-a5f2-ac6fb9f97995)
 
