@@ -17,6 +17,12 @@ Good Antiviruses
 
 Websites To Learn And Practice
 
+Good VPNs (coming soon!)
+
+How To Use Tor Properly And Safeley (coming soon!)
+
+All About OPSEC
+
 
 All About Malware Section:
 Malware, short for malicious software, is any software intentionally designed to harm or exploit any programmable device, service, or network. It aims to cause disruption, steal data, or gain unauthorized access to information or systems, often for financial gain or sabotage. You can find tons of malware on this repo here: https://github.com/vxunderground/MalwareSourceCode
