@@ -21,7 +21,7 @@ Good VPNs (coming soon!)
 
 How To Use Tor Properly And Safeley (coming soon!)
 
-All About OPSEC
+All About OPSEC (coming soon!)
 
 
 All About Malware Section:
